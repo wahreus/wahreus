@@ -10,6 +10,6 @@ Outside of work, I spend as much time as I can behind the drum kit, playing alon
 
 
 <p align="left">
-  <img src="certifications/aws-saa-c03.png" alt="First image" width="15%">
-  <img src="certifications/aws-clf-c02.png" alt="Second image" width="15%">
+  <img src="certifications/aws-saa-c03.png" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" width="15%">
+  <img src="certifications/aws-clf-c02.png" alt="AWS Certified Cloud Practitioner (CLF-02)" width="15%">
 </p>
