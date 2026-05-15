@@ -1,5 +1,3 @@
-%# 👋 Welcome to my GitHub profile!
-
 # ⚙️ Infrastructure & backend engineer
 
 **“Simple is complex enough” is something I believe applies to both technology and music. Whether it’s system design, programming, or drumming, I focus on clarity, simplicity, and strong fundamentals.**
