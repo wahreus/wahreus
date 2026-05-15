@@ -1,6 +1,6 @@
 # ⚙️ Infrastructure & backend engineer
 
-**“Simple is complex enough” is something I believe applies to both technology and music. Whether it’s system design, programming, or drumming, I focus on clarity, simplicity, and strong fundamentals.**
+**“Simple is complex enough” is something I believe applies to both technology and music. Whether it’s system design, software development, or playing drums, I focus on clarity, simplicity, and strong fundamentals.**
 
 I’m interested in cloud infrastructure, automation, and backend systems. I like working with the bigger picture, understanding how the pieces fit together, and building things that stay reliable and maintainable as they grow.
 
