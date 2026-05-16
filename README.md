@@ -8,6 +8,6 @@ I’m interested in cloud infrastructure, automation, and backend systems. I lik
 
 
 <p align="left">
-  <img src="certifications/aws-saa-c03.png" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" width="15%">
-  <img src="certifications/aws-clf-c02.png" alt="AWS Certified Cloud Practitioner (CLF-02)" width="15%">
+  <img src="certifications/aws-saa-c03.png" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" width="20%">
+  <img src="certifications/aws-clf-c02.png" alt="AWS Certified Cloud Practitioner (CLF-02)" width="20%">
 </p>
