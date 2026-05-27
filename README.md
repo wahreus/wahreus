@@ -6,9 +6,9 @@ I’m interested in cloud infrastructure, automation, and backend systems. I lik
 
 ## Current focus areas
 
-- **AWS**
-- **Terraform**
-- **Kubernetes**
+- AWS
+- Terraform
+- Kubernetes
 
 ## Certifications
 
