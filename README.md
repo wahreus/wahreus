@@ -8,7 +8,7 @@ I’m interested in cloud infrastructure, automation, and backend systems. I lik
 
 - AWS
 - Terraform
-- Kubernetes
+- Kubernetes (CKA exam preparation)
 
 ## Certifications
 
