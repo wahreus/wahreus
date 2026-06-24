@@ -4,11 +4,14 @@
 
 I’m interested in cloud infrastructure, automation, and backend systems. I like working with the bigger picture, understanding how the pieces fit together, and building things that stay reliable and maintainable as they grow.
 
-## Current focus areas
+## Selected portfolio projects
 
-- AWS
-- Terraform
-- Kubernetes (CKA exam preparation)
+| Project              | Focus                                                         | Technologies                                                  |
+| -------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| Kubernetes Lab       | Kubernetes administration, networking, and troubleshooting    | AWS, Terraform, Kubernetes, Helm                              |
+| Cloud Cost Analytics | FinOps-style SQL analysis using cloud cost data               | AWS, Terraform, MySQL, SQL                                    |
+| Daily Tip Agent      | RAG-based agent for generating daily cloud best-practice tips | Python, OpenAI API, SQLite, GitHub Actions                    |
+| Noughts and Crosses  | Serverless web app with cloud-hosted frontend and API         | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
 
 ## Certifications
 
