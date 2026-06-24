@@ -6,12 +6,12 @@ I’m interested in cloud infrastructure, automation, and backend systems. I lik
 
 ## Selected portfolio projects
 
-| Project              | Focus                                                         | Technologies                                                  |
-| -------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-| Kubernetes Lab       | Kubernetes administration, networking, and troubleshooting    | AWS, Terraform, Kubernetes, Helm                              |
-| Cloud Cost Analytics | FinOps-style SQL analysis using cloud cost data               | AWS, Terraform, MySQL, SQL                                    |
-| Daily Tip Agent      | RAG-based agent for generating daily cloud best-practice tips | Python, OpenAI API, SQLite, GitHub Actions                    |
-| Noughts and Crosses  | Serverless browser game with cloud-hosted frontend and API         | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
+| Project                                                                 | Focus                                                         | Technologies                                                  |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Kubernetes Lab](https://github.com/wahreus/kubernetes-lab)             | Kubernetes administration, networking, and troubleshooting    | AWS, Terraform, Kubernetes, Helm                              |
+| [Cloud Cost Analytics](https://github.com/wahreus/cloud-cost-analytics) | FinOps-style SQL analysis using cloud cost data               | AWS, Terraform, MySQL, SQL                                    |
+| [Daily Tip Agent](https://github.com/wahreus/daily-tip-agent)           | RAG-based agent for generating daily cloud best-practice tips | Python, OpenAI API, SQLite, GitHub Actions                    |
+| [Noughts and Crosses](https://github.com/wahreus/noughts-and-crosses)   | Serverless browser game with cloud-hosted frontend and API    | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
 
 ## Certifications
 
