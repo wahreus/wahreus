@@ -11,7 +11,7 @@ I’m interested in cloud infrastructure, automation, and backend systems. I lik
 | Kubernetes Lab       | Kubernetes administration, networking, and troubleshooting    | AWS, Terraform, Kubernetes, Helm                              |
 | Cloud Cost Analytics | FinOps-style SQL analysis using cloud cost data               | AWS, Terraform, MySQL, SQL                                    |
 | Daily Tip Agent      | RAG-based agent for generating daily cloud best-practice tips | Python, OpenAI API, SQLite, GitHub Actions                    |
-| Noughts and Crosses  | Serverless web app with cloud-hosted frontend and API         | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
+| Noughts and Crosses  | Serverless browser game with cloud-hosted frontend and API         | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
 
 ## Certifications
 
