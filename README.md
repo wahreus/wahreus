@@ -2,7 +2,7 @@
 
 **“Simple is complex enough” is something I believe applies to both technology and music. Whether it’s system design, software development, or playing the drums, I focus on clarity, simplicity, and building strong fundamentals.**
 
-I’m interested in cloud infrastructure, automation, and backend systems. I like working with the bigger picture, understanding how the pieces fit together, and building things that stay reliable and maintainable as they grow.
+I build practical projects around cloud infrastructure, automation, and backend systems. I like working with the bigger picture, understanding how the pieces fit together, and building things that stay reliable and maintainable as they grow.
 
 ## Selected portfolio projects
 
