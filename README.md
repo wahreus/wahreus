@@ -10,7 +10,7 @@ I build practical projects around cloud infrastructure, automation, and backend 
 | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
 | [Kubernetes Lab](https://github.com/wahreus/kubernetes-lab)             | Kubernetes administration, networking, and troubleshooting    | AWS, Terraform, Kubernetes, Helm                              |
 | [Cloud Cost Analytics](https://github.com/wahreus/cloud-cost-analytics) | FinOps-style SQL analysis using cloud cost data               | AWS, Terraform, MySQL, SQL                                    |
-| [Daily Tip Agent](https://github.com/wahreus/daily-tip-agent)           | RAG-based agent for generating daily cloud best-practice tips | Python, OpenAI API, SQLite, GitHub Actions                    |
+| [Daily Tip Agent](https://github.com/wahreus/daily-tip-agent)           | RAG-based agent for generating daily AWS best-practice tips | Python, OpenAI API, SQLite, GitHub Actions                    |
 | [Noughts and Crosses](https://github.com/wahreus/noughts-and-crosses)   | Serverless browser game with cloud-hosted frontend and API    | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
 
 ## Certifications
