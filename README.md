@@ -6,7 +6,7 @@ I build practical projects around cloud infrastructure, automation, and backend 
 
 ## Selected portfolio projects
 
-| Project                                                                 | Focus                                                         | Technologies                                                  |
+| Project                                                                 | Focus                                                         | Tech stack                                                  |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
 | [Kubernetes Lab](https://github.com/wahreus/kubernetes-lab)             | Kubernetes administration, networking, and troubleshooting    | AWS, Terraform, Kubernetes, Helm                              |
 | [Cloud Cost Analytics](https://github.com/wahreus/cloud-cost-analytics) | FinOps-style SQL analysis using cloud cost data               | AWS, Terraform, MySQL, SQL                                    |
