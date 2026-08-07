@@ -8,7 +8,7 @@ I build practical projects around cloud infrastructure, automation, and backend 
 
 | Project                                                                 | Focus                                                             | Tech stack                                                    |
 | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------- |
-| [FareWise](https://github.com/wahreus/farewise)                         | Backend API for optimizing TfL fares from historical journey data | Python, FastAPI                                               |
+| [FareWise](https://github.com/wahreus/farewise)                         | Backend API for Transport for London (TfL) fare optimization      | Python, FastAPI                                               |
 | [Kubernetes Lab](https://github.com/wahreus/kubernetes-lab)             | Kubernetes administration, networking, and troubleshooting        | AWS, Terraform, Kubernetes, Helm                              |
 | [Cloud Cost Analytics](https://github.com/wahreus/cloud-cost-analytics) | FinOps-style SQL analysis using cloud cost data                   | AWS, Terraform, MySQL, SQL                                    |
 | [Daily Tip Agent](https://github.com/wahreus/daily-tip-agent)           | RAG-based agent for generating daily AWS best-practice tips       | Python, OpenAI API, SQLite, GitHub Actions                    |
