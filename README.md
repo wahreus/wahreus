@@ -8,7 +8,7 @@ I build practical projects around cloud infrastructure, automation, and backend 
 
 | Project                                                                 | Focus                                                                         | Tech stack                                                                               |
 | :---------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <a href="https://github.com/wahreus/farewise" target="_blank" rel="noopener noreferrer"><img src="figures/farewise_logo.svg" alt="FareWise logo" height="27"></a>                         | Serverless Transport for London (TfL) fare optimization app with Terraform IaC and automated CI/CD | Python, FastAPI, AWS Lambda, API Gateway, Terraform, GitHub Actions |
+| <a href="https://github.com/wahreus/farewise" target="_blank" rel="noopener noreferrer"><img src="figures/farewise_logo.svg" alt="FareWise logo" height="26"></a>                         | Serverless Transport for London (TfL) fare optimization app with Terraform IaC and automated CI/CD | Python, FastAPI, AWS Lambda, API Gateway, Terraform, GitHub Actions |
 | [Kubernetes Lab](https://github.com/wahreus/kubernetes-lab)             | Kubernetes administration, networking, and troubleshooting                                         | AWS, Terraform, Kubernetes, Docker                                  |
 | [Cloud Cost Analytics](https://github.com/wahreus/cloud-cost-analytics) | FinOps-style SQL analysis using cloud cost data                                                    | AWS, Terraform, MySQL, SQL                                          |
 | [Daily Tip Agent](https://github.com/wahreus/daily-tip-agent)           | RAG-based agent for generating daily AWS best-practice tips                                        | Python, OpenAI API, SQLite, GitHub Actions                          |
@@ -18,9 +18,9 @@ I build practical projects around cloud infrastructure, automation, and backend 
 
 <p align="left">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/d36597c8b0514ba6bcd7a381e79bbe1b" target="_blank" rel="noopener noreferrer">
-    <img src="certifications/aws-saa-c03.png" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" width="17%">
+    <img src="certifications/aws-saa-c03.png" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" width="18%">
   </a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/5f085f330d0d47598fea9d831f6835e0" target="_blank" rel="noopener noreferrer">
-    <img src="certifications/aws-clf-c02.png" alt="AWS Certified Cloud Practitioner (CLF-C02)" width="17%">
+    <img src="certifications/aws-clf-c02.png" alt="AWS Certified Cloud Practitioner (CLF-C02)" width="18%">
   </a>
 </p>
