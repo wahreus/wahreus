@@ -17,13 +17,7 @@ I work with cloud architecture, infrastructure, automation, and backend systems,
 ## Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/88ee8fe5-2df8-4499-bd13-bff6f6267502/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="certifications/aws-saa-c03.png" alt="AWS Certified Solutions Architect – Associate (SAA-C03)" width="17%">
-  </a>
-  <a href="https://www.credly.com/badges/73358ff6-213a-462b-b5eb-a790c4113ce7/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="certifications/aws-aif-c01.png" alt="AWS Certified Cloud Practitioner (CLF-C02)" width="17%">
-  </a>
-  <a href="https://www.credly.com/badges/a5dfe2cf-2d3a-457a-9e44-53e446a254bb/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="certifications/aws-clf-c02.png" alt="AWS Certified Cloud Practitioner (CLF-C02)" width="17%">
-  </a>
+  <a href="https://www.credly.com/badges/88ee8fe5-2df8-4499-bd13-bff6f6267502/public_url"><img src="certifications/aws-saa-c03.png" alt="AWS Solutions Architect Associate" width="17%"></a>
+  <a href="https://www.credly.com/badges/73358ff6-213a-462b-b5eb-a790c4113ce7/public_url"><img src="certifications/aws-aif-c01.png" alt="AWS AI Practitioner" width="17%"></a>
+  <a href="https://www.credly.com/badges/a5dfe2cf-2d3a-457a-9e44-53e446a254bb/public_url"><img src="certifications/aws-clf-c02.png" alt="AWS Cloud Practitioner" width="17%"></a>
 </p>
