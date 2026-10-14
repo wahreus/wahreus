@@ -14,7 +14,7 @@ I work with cloud architecture, infrastructure, automation, and backend systems,
 | [Daily Tip Agent](https://github.com/wahreus/daily-tip-agent) | RAG-based agent for generating daily AWS best-practice tips | Python, OpenAI API, SQLite, GitHub Actions |
 | [Noughts and Crosses](https://github.com/wahreus/noughts-and-crosses) | Serverless browser game with cloud-hosted frontend and API | AWS, Terraform, S3, CloudFront, API Gateway, Lambda, DynamoDB |
 
-## Certifications
+## Active Certifications
 
 <p align="left">
   <a href="https://www.credly.com/badges/88ee8fe5-2df8-4499-bd13-bff6f6267502/public_url"><img src="certifications/aws-saa-c03.png" alt="AWS Solutions Architect Associate" width="16%"></a>
